@@ -3,16 +3,9 @@
 You can easily purchase all your IT goods and services
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Personal computer items
 ## Enterprise items
-### Header 3
+
 
 - Laptops
 - Desktops
@@ -26,6 +19,6 @@ Syntax highlighted code block
 3. Networking devices
 
 
-For more details email [GitHub Flavored Markdown](info@3par.co.ke).
+For more details email [info@3par.co.ke](info@3par.co.ke).
 
 
